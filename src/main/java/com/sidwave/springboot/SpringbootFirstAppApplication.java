@@ -1,6 +1,6 @@
 package com.sidwave.springboot;
 //Sidney Seay
-//Created June 7, 2022g
+//Created June 7, 2022
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
